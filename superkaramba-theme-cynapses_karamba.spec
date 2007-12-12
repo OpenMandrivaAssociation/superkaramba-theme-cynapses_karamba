@@ -2,7 +2,7 @@
 %define theme_name      cynapses_karamba
 %define name            %{base_name}-%{theme_name}
 %define version         2.0.alpha
-%define release         1mdk
+%define release         %mkrel 1
 %define aname		sys_mon
 Name:	%{name}
 Version:	%{version}
