@@ -13,7 +13,6 @@ Group:          Monitoring
 Source:         11405-%{theme_name}.tar.bz2      
 URL:            http://www.cynapses.org/
 Requires:       superkaramba >= 0.35
-BuildRoot:      %{_tmppath}/%{name}-buildroot
 
 %description
 This is a desktop applet that displays system informations.
