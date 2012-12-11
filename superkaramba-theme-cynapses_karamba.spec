@@ -53,3 +53,36 @@ fi
 %{_datadir}/apps/superkaramba/themes/%{theme_name}/*
 
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 2.0.alpha-6mdv2010.0
++ Revision: 434190
+- rebuild
+
+* Sat Aug 02 2008 Thierry Vignaud <tvignaud@mandriva.com> 2.0.alpha-5mdv2009.0
++ Revision: 261239
+- rebuild
+
+* Tue Jul 29 2008 Thierry Vignaud <tvignaud@mandriva.com> 2.0.alpha-4mdv2009.0
++ Revision: 253754
+- rebuild
+
+* Sun Mar 02 2008 Nicolas Lécureuil <neoclust@mandriva.org> 2.0.alpha-2mdv2008.1
++ Revision: 177558
+- [BUGFIX] Fix uninstall ( thanks misc) (Bug #22642)
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Mon Dec 17 2007 Thierry Vignaud <tvignaud@mandriva.com> 2.0.alpha-1mdv2008.1
++ Revision: 128066
+- kill re-definition of %%buildroot on Pixel's request
+- use %%mkrel
+- import superkaramba-theme-cynapses_karamba
+
+
+* Mon Mar 07 2005 Sebastien Savarin <plouf@zarb.org> 2.0.alpha-1mdk
+-Initial mandrake release 
+
+
