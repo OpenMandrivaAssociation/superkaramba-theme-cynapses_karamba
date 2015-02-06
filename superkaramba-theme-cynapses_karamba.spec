@@ -4,7 +4,7 @@
 Summary:	Monitoring theme for superkaramba
 Name:		superkaramba-theme-%{theme_name}
 Version:	2.0.alpha
-Release:	7
+Release:	8
 License:	GPL
 Group:		Monitoring
 Url:		http://www.cynapses.org/
