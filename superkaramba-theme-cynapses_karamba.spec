@@ -7,7 +7,7 @@ Version:	2.0.alpha
 Release:	8
 License:	GPL
 Group:		Monitoring
-Url:		http://www.cynapses.org/
+Url:		https://www.cynapses.org/
 Source0:	11405-%{theme_name}.tar.bz2
 Requires:	superkaramba
 BuildArch:	noarch
